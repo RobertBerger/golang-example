@@ -1,4 +1,4 @@
-module github.com/robertberger/golang-example
+module github.com/robertberger/golangexample
 
 go 1.18
 
